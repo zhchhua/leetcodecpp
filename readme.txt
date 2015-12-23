@@ -1,2 +1,1 @@
-creating a new branch is quick & simple
-sjsjfjsdaj
+git is new branch is quick and simple.
